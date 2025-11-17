@@ -5,12 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js",
-<<<<<<< HEAD
     "start":"node server.js",
     "vercel-start":"nodemon server.js"
-=======
-    "vercel_start":"nodemon server.js"
->>>>>>> 0704877ede37fa1a7b3f464df768c51323951480
   },
   "keywords": [],
   "author": "",
